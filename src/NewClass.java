@@ -9,5 +9,5 @@
  * @author web2
  */
 public class NewClass {
-    
+    asdasdasdasdasd
 }

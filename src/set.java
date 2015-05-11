@@ -8,6 +8,6 @@
  *
  * @author web2
  */
-public class NewClass {
-
+public class set {
+    
 }
